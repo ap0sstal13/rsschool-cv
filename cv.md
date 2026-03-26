@@ -12,3 +12,4 @@
 6. *no work experience*
 7. *Graduated from secondary education with a specialization in information security*
 8. *weak level of English, I can understand what is written and spoken, but translating and composing sentences is still difficult*
+![my photo](Desktop/photo_2026-03-27_01-54-20)
