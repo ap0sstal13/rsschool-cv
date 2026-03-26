@@ -1,5 +1,4 @@
-#  Resume
-## My resume
+# My resume
 1. *My name is Sergey Korehov*
 2. *My contact information* 
 * email: themulticlauz0@gmail.com 
